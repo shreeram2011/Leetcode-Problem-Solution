@@ -1,3 +1,38 @@
+//First Solution
+
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int CombinedArray [] = new int[n + m];
+        for(int i = 0; i < m; i ++){
+            CombinedArray[i] = nums1[i];
+        }
+            
+        for(int j = 0; j < n; j ++){
+            CombinedArray[m + j] = nums2[j];
+        }
+        Arrays.sort(CombinedArray);
+        for(int i = 0; i < CombinedArray.length; i ++){
+            nums1[i] = CombinedArray[i];
+        }
+    }
+}
+
+
+//Second Solution
+
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        for(int i = 0; i < n; i ++){
+            nums1[m + i] = nums2[i];
+        }
+        Arrays.sort(nums1);
+    }
+}
+
+
+
+// Third Solution ( Best Solution ) 
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int p = m - 1;
