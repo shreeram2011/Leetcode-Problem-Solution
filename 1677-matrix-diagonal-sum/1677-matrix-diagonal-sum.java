@@ -2,6 +2,7 @@ class Solution {
     public int diagonalSum(int[][] mat) {
         int r = mat.length;
         int c = mat[0].length;
+        
         int sum = 0;
 
         for(int rowNo = 0; rowNo < r; rowNo ++){
