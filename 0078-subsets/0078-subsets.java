@@ -15,7 +15,7 @@ class Solution {
         //pick the element and include in combination
         Combination.add(nums[index]);
         helper(nums, index + 1, Combination);
-        Combination.remove(Combination.size() - 1);
+        Combination.remove(Combination.size() - 1);//this is done because for avoiding mutation of dublicate elment.
     }
     public List<List<Integer>> subsets(int[] nums) {
         helper(nums,0, new ArrayList<>());
