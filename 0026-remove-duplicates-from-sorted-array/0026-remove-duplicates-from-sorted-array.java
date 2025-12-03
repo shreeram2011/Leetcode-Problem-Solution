@@ -1,16 +1,13 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int traversalPtr = 0;
-        int k = 0;
-        int prev = Integer.MIN_VALUE;
-
-        for(; traversalPtr < nums.length; traversalPtr ++){
-            if(prev != nums[traversalPtr]){
-                nums[k] = nums[traversalPtr];
-                k ++;
-                prev = nums[traversalPtr];
+        int i = 0;
+        
+        for(int j = 1; j < nums.length; j ++){
+            if(nums[j] != nums[i]){
+                i ++;
+                nums[i] = nums[j];
             }
         }
-        return k;
+        return i + 1;
     }
 }
