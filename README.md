@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1677-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1677-matrix-diagonal-sum) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
