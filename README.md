@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1677-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1677-matrix-diagonal-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
