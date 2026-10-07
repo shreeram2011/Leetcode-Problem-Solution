@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
