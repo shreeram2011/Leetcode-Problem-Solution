@@ -105,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0183-customers-who-never-order) |
+| [0595-big-countries](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
