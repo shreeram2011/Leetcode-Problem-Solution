@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0204-count-primes) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2235-add-two-integers](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
