@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0258-add-digits) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2235-add-two-integers) |
 ## Hash Table
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1929-concatenation-of-array) |
 ## Enumeration
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
