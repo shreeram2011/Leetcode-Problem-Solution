@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1677-matrix-diagonal-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1920-build-array-from-permutation) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
