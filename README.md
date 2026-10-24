@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1929-concatenation-of-array) |
 ## Enumeration
