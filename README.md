@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1929-concatenation-of-array) |
+| [2614-prime-in-diagonal](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2614-prime-in-diagonal) |
 ## Matrix
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1677-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0258-add-digits) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2235-add-two-integers) |
+| [2614-prime-in-diagonal](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0258-add-digits) |
+| [2614-prime-in-diagonal](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
 | ------- |
