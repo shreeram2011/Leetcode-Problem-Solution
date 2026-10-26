@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0078-subsets) |
+| [0371-sum-of-two-integers](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0371-sum-of-two-integers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2235-add-two-integers) |
 | [2614-prime-in-diagonal](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2614-prime-in-diagonal) |
