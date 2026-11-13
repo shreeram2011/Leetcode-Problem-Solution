@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/1929-concatenation-of-array) |
 | [2614-prime-in-diagonal](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/2614-prime-in-diagonal) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0001-two-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/0620-not-boring-movies) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shreeram2011/Leetcode-Problem-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
